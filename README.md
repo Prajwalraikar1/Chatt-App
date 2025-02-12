@@ -7,5 +7,5 @@
 
 
 2.npm start
- Enjoy
+ Enjoy the website
 
