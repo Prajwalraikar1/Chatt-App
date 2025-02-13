@@ -7,5 +7,3 @@
 
 
 2.npm start
- Enjoy the website
-
